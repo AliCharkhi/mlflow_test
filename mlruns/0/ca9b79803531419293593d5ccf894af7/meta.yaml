@@ -1,0 +1,14 @@
+artifact_uri: /mlflow_test/mlflow/examples/sklearn_elasticnet_wine/mlruns\0\ca9b79803531419293593d5ccf894af7\artifacts
+end_time: 1548142165790
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: ca9b79803531419293593d5ccf894af7
+source_name: C:\Users\charkal\AppData\Local\Continuum\anaconda3\lib\site-packages\ipykernel_launcher.py
+source_type: 4
+source_version: ''
+start_time: 1548142165685
+status: 3
+tags: []
+user_id: AliCharkhi
